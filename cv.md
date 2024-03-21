@@ -11,7 +11,7 @@ title: "CV"
 -----------
 <br/> -->
 
-## EDUCATION
+### EDUCATION
 
 - **University of Groningen & Huazhong Agricultural University**
   &emsp;*Sep 2018&ndash;Sep 2024, Wuhan, China & Groningen, The Netherlands*
@@ -34,7 +34,7 @@ title: "CV"
   - Outstanding undergraduate award
   - Excellent graduation project award
 
-## ACADEMIC PUBLICATIONS
+### ACADEMIC PUBLICATIONS
 
 - Li, Teng and Jager, Wander (2023). ***How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation: An Opinion Dynamics Simulation of the Case of COVID-19 Vaccination***. Journal of Artificial Societies and Social Simulation 26(4)2. [http://jasss.soc.surrey.ac.uk/26/4/2.html](http://jasss.soc.surrey.ac.uk/26/4/2.html). doi: 10.18564/jasss.5135
 - Li T., Zhou D., Razzaq A., Wang Q. ***Rethinking the Role of Grain Banks in China’s Agriculture***. Agriculture. 2021; 11(1):49. [https://doi.org/10.3390/agriculture11010049](https://doi.org/10.3390/agriculture11010049)
@@ -43,14 +43,14 @@ title: "CV"
 - Puqing Wang, Saidi Yang, Teng Li. ***Blockchain Technology in Food Safety Governance***. The 2021 12th International Conference on E-business, Management and Economics (ICEME 2021) July 17&ndash;19, 2021, Part1, p90-95(included in EI)
 - Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25.
 
-## RESEARCH PROJECTS
+### RESEARCH PROJECTS
 
 - Participated in ***Sharing of Entrepreneurial Internship Bases for University Students and Sino-Foreign Agricultural Science and Technology Cooperation in the Context of "Belt and Road".*** OEI under 'Belt and Road Initiative' in Cultural and Educational Sector, DL20180061. Mar 2018&ndash;Dec 2020, CNY315,000
 - Participated in ***Research on innovation product diffusion model and application based on micro-individual dynamic decision-making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
 - Participated in ***Survey on the Current Situation of Egyptian Agriculture and Analysis of the Potential of China-Egypt Agricultural Cooperation.*** International Science and Technology Cooperation Cultivation Project of Huazhong Agricultural University Autonomous Science and Technology Innovation Fund, 2662017PY071. May 2017&ndash;Dec 2018, CNY100,000
 - Participated in ***State Council's '13th Five-Year Plan' Rural Development and Poverty Alleviation Project in Hubei Province***, Dec 2016
   
-## PRACTICAL EXPERIENCES
+### PRACTICAL EXPERIENCES
 
 - Presented at ***18th European Social Simulation Conference*** in Glasgow, UK. Sep 4&ndash;8, 2023
 - Organized and presented at the ***launching ceremony and the first conference of the Asian Social Simulation Association (ASSA)***, Wuhan, China, Aug 2023
@@ -62,7 +62,7 @@ title: "CV"
 - Investigated ***the development of e-commerce and poverty alleviation*** in Longnan City of Gansu, Qiongzhong County of Hainan, and Kashi City of Xinjiang, Jul&ndash;Aug 2017
 - Investigated ***China-Mongolia cross-border trade conditions*** in Ulaanbaatar and Zamyn Uud, Mongolia, Jun 2017
 
-## NON-ACADEMIC PUBLICATIONS
+### NON-ACADEMIC PUBLICATIONS
 
 - Launching Ceremony and First Annual Conference of Asian Society of Social Simulation held at Huazhong Agricultural University. China Daily. Aug 30, 2023. [https://hb.chinadaily.com.cn/a/202308/30/WS64ee9ccfa3109d7585e4b61e.html](https://hb.chinadaily.com.cn/a/202308/30/WS64ee9ccfa3109d7585e4b61e.html)
 - The 2023 Huazhong Agricultural University-Imperial College Summer School on Computational Social Science Methodology concluded successfully. Nanhu News. Aug 30, 2023. [http://news.hzau.edu.cn/2023/0830/67619.shtml](http://news.hzau.edu.cn/2023/0830/67619.shtml)
@@ -71,7 +71,7 @@ title: "CV"
 - Huazhong Agricultural University co-sponsored the establishment of the Asian Social Simulation Association. WeChat Official Account of Huazhong Agricultural University. Aug 29, 2023. [https://mp.weixin.qq.com/s/QUS_ckdoD150FZqHWVikLA](https://mp.weixin.qq.com/s/QUS_ckdoD150FZqHWVikLA)
 - Published 233 original articles/essays through WeChat self-media account since 2017
 
-## HONORS & AWARDS
+### HONORS & AWARDS
 
 - **State Scholarship Fund from China Scholarship Council** (202206760072) Aug 2022&ndash;Aug 2024
 - **Provincial Merit College Student of Jiangsu Province 2016**
@@ -79,7 +79,7 @@ title: "CV"
 - **Third Prize in the Excellent Paper Competition** of the First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technology for Innovation and Entrepreneurship Practice, Dec 25, 2018
 - **Second Prize of the First National New Retail Entrepreneurship Competition**. Issued by China General Chamber of Commerce (CGCC) & Alibaba.com, Oct 2019
 
-## VOLUNTEER EXPERIENCES
+### VOLUNTEER EXPERIENCES
 
 - Excellent Volunteer of the 23rd Qingdao International Beer Festival in 2013
 - Excellent Volunteer of the 2nd Nanjing Youth Olympic Games in 2014
