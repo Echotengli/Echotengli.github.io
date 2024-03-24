@@ -3,4 +3,6 @@ layout: post
 title: "My first JASSS publication"
 ---
 
-The first paper in collaboration with my Dutch supervisor was published in JASSS. It took two years and countless discussion reports and revisions to take shape. [the paper]('publications/How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation.pdf')
+My first JASSS paper, in collaboration with my Dutch supervisor, was published. It took us two years with countless discussion reports and revisions to take shape. [Link](/publications/How_Availability_Heuristic.pdf)
+
+<!-- [cv]({{site.github.url}}{% link /publications/How_Availability_Heuristic.pdf %}) -->

@@ -11,9 +11,9 @@ menu:
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 life:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Bike workshop Mutual Aid zine', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486489&idx=1&sn=91d1748070966e62489ff109bd5c064c&chksm=fdfc9e6aca8b177c67d35997a9b8cee4f2de6ea7611f22d445690aead997a29746e7e28c7ab5&scene=0&xtrack=1#rd'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Echotengli'}
@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/echo-teng-li-b846a7231'}
 
 contacts:
-- {name: 'Teng Li', title: 'PhD student', department: 'Faculty of Behavioural and Social Sciences', institution: 'University of Groningen', institution_address: 'Grote Kruisstraat 2/1, 9712 TS Groningen, The Netherlands', phone: '(+31) 503637623', email: 'teng.li@rug.nl', office: 'B.119', image: 'assets/img/contact.jpg'}
+- {name: 'Teng Li', title: 'PhD candidate', department: 'Faculty of Behavioural and Social Sciences', institution: 'University of Groningen', institution_address: 'Grote Kruisstraat 2/1, 9712 TS Groningen, The Netherlands', phone: '(+31) 503637623', email: 'teng.li@rug.nl', office: 'B.119', image: 'assets/img/contact.jpg'}
