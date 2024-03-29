@@ -8,7 +8,7 @@
 
 **Website**: <https://echotengli.github.io> &nbsp;&nbsp;|&nbsp;&nbsp; **Email**: <teng.li@rug.nl> &nbsp;&nbsp;|&nbsp;&nbsp;**Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
 
-[Education](#education) | [Academic publications](#academic-publications) | [Research projects](#research-projects) | [Exchange & fieldwork](#exchange--fieldwork) | [Non-Academic publications](#non-academic-publications) | [Honors & awards](#honors--awards) | [Volunteer](#volunteer) | [PDF](/_data/cv/cv_no-reference.pdf)
+[Education](#education) | [Academic publications](#academic-publications) | [Research projects](#research-projects) | [Exchange & fieldwork](#exchange--fieldwork) | [Non-Academic publications](#non-academic-publications) | [Honors & awards](#honors--awards) | [Volunteer](#volunteer) | [PDF](/cv_no-reference.pdf)
 
 -----------
 <!-- <br/> -->
