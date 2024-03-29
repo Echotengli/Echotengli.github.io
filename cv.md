@@ -11,11 +11,9 @@ title: 'CV'
 
 **Double-degree PhD in Management and Social Simulation**
 
-**Website**: <https://echotengli.github.io>&nbsp; &nbsp; |**Email**: <teng.li@rug.nl>&nbsp; &nbsp; |**Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
+**Website**: <https://echotengli.github.io>&nbsp; &nbsp; **Email**: <teng.li@rug.nl>&nbsp; &nbsp; **Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
 
-<br/>
-
-**Shortcut:**&nbsp; [Education](#education)&nbsp; &nbsp; [Academic publications](#academic-publications)&nbsp; &nbsp; [Research projects](#research-projects)&nbsp; &nbsp; [Exchange & fieldwork](#exchange--fieldwork)&nbsp; &nbsp; [Non-Academic publications](#non-academic-publications)&nbsp; &nbsp; [Honors & awards](#honors--awards)&nbsp; &nbsp; [Volunteer](#volunteer)&nbsp; &nbsp; [PDF](/cv_no-reference.pdf)
+**Shortcut:**&nbsp; [Education](#education)&nbsp; &nbsp; [Academic publications](#academic-publications)&nbsp; &nbsp; [Research projects](#research-projects)&nbsp; &nbsp; [Exchange & fieldwork](#exchange--fieldwork)&nbsp; &nbsp; [Non-Academic publications](#non-academic-publications)&nbsp; &nbsp; [Honors & awards](#honors--awards)&nbsp; &nbsp; [Volunteer](#volunteer)&nbsp; &nbsp; [PDF](/cv.pdf)
 
 -----------
 <!-- <br/> -->
