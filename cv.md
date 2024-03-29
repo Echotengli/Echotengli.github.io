@@ -9,7 +9,7 @@ title: 'CV'
 <!-- <div align='center' ><font size='20'>Teng Li (Echo)</font></div> -->
 # Teng Li (Echo)
 
-**Double-degree PhD of Management and Social Simulation**
+**Double-degree PhD in Management and Social Simulation**
 
 **Website**: <https://echotengli.github.io>&nbsp; &nbsp; |**Email**: <teng.li@rug.nl>&nbsp; &nbsp; |**Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
 
@@ -61,7 +61,7 @@ title: 'CV'
 ## RESEARCH PROJECTS
 
 - Participated in ***Sharing of Entrepreneurial Internship Bases for University Students and Sino-Foreign Agricultural Science and Technology Cooperation in the Context of "Belt and Road".*** OEI under 'Belt and Road Initiative' in Cultural and Educational Sector, DL20180061. Mar 2018&ndash;Dec 2020, CNY315,000
-- Participated in ***Research on innovation product diffusion model and application based on micro-individual dynamic decision-making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
+- Participated in ***Research on Innovation Product Diffusion Model and Application Based on Micro-Individual Dynamic Decision-Making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
 - Participated in ***Survey on the Current Situation of Egyptian Agriculture and Analysis of the Potential of China-Egypt Agricultural Cooperation.*** International Science and Technology Cooperation Cultivation Project of Huazhong Agricultural University Autonomous Science and Technology Innovation Fund, 2662017PY071. May 2017&ndash;Dec 2018, CNY100,000
 - Participated in ***State Council's '13th Five-Year Plan' Rural Development and Poverty Alleviation Project in Hubei Province***, Dec 2016
 
@@ -73,7 +73,7 @@ title: 'CV'
 
 - ***How Does Culture Affect Vaccination Opinion Polarisation?*** 18th European Social Simulation Conference in Glasgow, UK. Sep 4&ndash;8, 2023
 - ***How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation: An Opinion Dynamics Simulation of the Case of COVID-19 Vaccination***. 17th European Social Simulation Conference in Milan, Italy. Sep 12&ndash;16, 2022
-- ***Fear-Based Opinion Dynamics towards COVID-19 Vaccination*** (Best Poster Award). Launching ceremony and the first conference of the Asian Social Simulation Association (ASSA), Wuhan, China, Aug 2023
+- ***Fear-Based Opinion Dynamics Towards COVID-19 Vaccination*** (Best Poster Award). Launching ceremony and the first conference of the Asian Social Simulation Association (ASSA), Wuhan, China, Aug 2023
 - ***China Taobao Village Experience***. The second International Forum on Cross-Border E-commerce. University of Agriculture, Faisalabad, Pakistan. Dec 3-5, 2019.
 - ***International Summer Camp in Bishan, China: Prospects and Outcomes***. The 3rd International Forum on Cross-Border E-commerce Cooperation (CBEC). Online. Bangladesh Agricultural University, Bangladesh. Dec 21-22, 2020.
 
