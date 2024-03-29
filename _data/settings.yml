@@ -14,7 +14,7 @@ life:
 # - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Bike workshop Mutual Aid zine', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486489&idx=1&sn=91d1748070966e62489ff109bd5c064c&chksm=fdfc9e6aca8b177c67d35997a9b8cee4f2de6ea7611f22d445690aead997a29746e7e28c7ab5&scene=0&xtrack=1#rd'}
 - {name: 'Journey to Cross Border E-Commerce (part I)', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486280&idx=1&sn=c0ca0a9a7b29b9ccc4afea5bf0273457&chksm=fdfc993bca8b102de3ea7b7aa9184daf563570a1c7eb814b55d57df8ed1f0c61fcd46dd102d1&scene=0&xtrack=1#rd'}
-- {name: 'My hometown', url: 'my-hometown'}
+# - {name: 'My hometown', url: 'my-hometown'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Echotengli'}
