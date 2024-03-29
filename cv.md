@@ -1,3 +1,8 @@
+---
+layout: 'cv'
+title: 'CV'
+---
+
 <!-- ![picture 0](images/46bba77c060b14dce03e531b03666dd50c54ccd25083258fefea7ca5c7f8f014.jpg)   -->
 <!-- <img src="微信图片_20230921193933.jpg" alt="a" width=109 align=right> -->
 
@@ -6,9 +11,11 @@
 
 **Double-degree PhD of Management and Social Simulation**
 
-**Website**: <https://echotengli.github.io> &nbsp;&nbsp;|&nbsp;&nbsp; **Email**: <teng.li@rug.nl> &nbsp;&nbsp;|&nbsp;&nbsp;**Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
+**Website**: <https://echotengli.github.io>&nbsp; &nbsp; |**Email**: <teng.li@rug.nl>&nbsp; &nbsp; |**Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
 
-[Education](#education) | [Academic publications](#academic-publications) | [Research projects](#research-projects) | [Exchange & fieldwork](#exchange--fieldwork) | [Non-Academic publications](#non-academic-publications) | [Honors & awards](#honors--awards) | [Volunteer](#volunteer) | [PDF](/cv_no-reference.pdf)
+<br/>
+
+**Shortcut:**&nbsp; [Education](#education)&nbsp; &nbsp; [Academic publications](#academic-publications)&nbsp; &nbsp; [Research projects](#research-projects)&nbsp; &nbsp; [Exchange & fieldwork](#exchange--fieldwork)&nbsp; &nbsp; [Non-Academic publications](#non-academic-publications)&nbsp; &nbsp; [Honors & awards](#honors--awards)&nbsp; &nbsp; [Volunteer](#volunteer)&nbsp; &nbsp; [PDF](/cv_no-reference.pdf)
 
 -----------
 <!-- <br/> -->
