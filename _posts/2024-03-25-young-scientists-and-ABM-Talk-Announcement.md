@@ -13,14 +13,16 @@ Event Details
 	Deadline: March 31st, 2024
 	Language: Chinese
 	Online meeting Platform: Tencent Meeting (link to be shared upon registration)
+
 Registration Method
+
 To register for this discussion, please fill out the form below (Chinese or English). Share with us why you're eager to participate in this talk. Your motivation will help us tailor the event to better suit the interests and expectations of our participants.
 
-https://www.wjx.cn/vm/tUI8WQf.aspx
+(https://www.wjx.cn/vm/tUI8WQf.aspx)
  
 Don't miss this opportunity to connect with fellow young researchers and explore the fascinating realm of Agent-Based Modeling.
 
-Learn more about the special interest group of Young Scientists (SIG-YS) within the Asian Social Simulation Association (ASSA): https://socialsimulation.net/SIG/youngscientists
+Learn more about the special interest group of Young Scientists (SIG-YS) within the Asian Social Simulation Association (ASSA): (https://socialsimulation.net/SIG/youngscientists)
 
 Liaisons：
 李腾Teng Li (teng.li@rug.nl), 陈典涵Dianhan Chen (chen.dh@csu.edu.cn)
