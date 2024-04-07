@@ -8,11 +8,11 @@ Here is an invitation to our first online talk about Young Scientists & ABM. The
 In this talk, we will first invite Shaoni Wang, a postdoctoral researcher from the University of Groningen, the Netherlands, to give a short talk about her ABM research journey. Following Shaoni's presentation, we encourage all participants to contribute to the conversation by sharing their perspectives on ABM. Whether it's recounting personal experiences, posing thought-provoking / “stupid” questions, brainstorming ideas for ABM applications, or anything else related to the topic, your input is valued.
 
 Event Details
-	Expected Participants: 10 
-	Data and Time: April 6th, 2024, 19:00-20:00 (Peking Time)
-	Deadline: March 31st, 2024
-	Language: Chinese
-	Online meeting Platform: Tencent Meeting (link to be shared upon registration)
+ - Expected Participants: 10 
+ - Data and Time: April 6th, 2024, 19:00-20:00 (Peking Time)
+ - Deadline: March 31st, 2024
+ - Language: Chinese
+ - Online meeting Platform: Tencent Meeting (link to be shared upon registration)
 
 Registration Method
 
