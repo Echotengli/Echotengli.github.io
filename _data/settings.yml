@@ -16,6 +16,13 @@ life:
 - {name: 'Journey to Cross Border E-Commerce (part I)', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486280&idx=1&sn=c0ca0a9a7b29b9ccc4afea5bf0273457&chksm=fdfc993bca8b102de3ea7b7aa9184daf563570a1c7eb814b55d57df8ed1f0c61fcd46dd102d1&scene=0&xtrack=1#rd'}
 - {name: 'Journey to Cross Border E-Commerce (part II)', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486450&idx=1&sn=edfab6d8621e79796c6f017187d1b5a3&chksm=fdfc9981ca8b1097225e26287d6a91e041b8260d13c7ac508ed25fce74874168625fc3963407&scene=0&xtrack=1#rd'}
 # - {name: 'My hometown', url: 'my-hometown'}
+- {name: 'Talk with Wander', url: 'https://mp.weixin.qq.com/s/oFlU7tlK9zzdjkILbOoNcg'}
+- {name: '外导来中国', url: 'https://mp.weixin.qq.com/s/NV_5VNX_D4jkCQMTHYqm9A'}
+- {name: 'Talk with Andreas & Wander', url: 'https://mp.weixin.qq.com/s/uTTJaoJIQyl9ZF4auwoAYg'}
+- {name: '导师赞', url: 'https://mp.weixin.qq.com/s/j3n152oYpcxaPTsS9MhryA'}
+- {name: '我这一年之导师篇', url: 'https://mp.weixin.qq.com/s/g7Emwo0Ztg7MLHJw5ccgNw'}
+- {name: '荷兰奇遇记 - 自行车的故事', url: 'https://mp.weixin.qq.com/s/pjscA7b76FbcAAYx3xMMuA'}
+- {name: 'My first ICS course', url: 'https://mp.weixin.qq.com/s/F6jqW3KwO9lC5cIeZa3bTw'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Echotengli'}
