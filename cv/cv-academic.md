@@ -23,7 +23,7 @@ title: 'CV'
 - **Double-degree PhD of Management and Social Simulation**&emsp;**(Sep 2018&ndash;)**
   - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands, May 2021&ndash;Sep 2024
   - College of Economics and Management, Huazhong Agricultural University, China, Sep 2018&ndash;Apr 2021
-  - Research topics: ***consumer decision-making, vaccination opinion dynamics, bounded rationality, agent-based modeling***
+  - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
 
 - **Visiting Master**&emsp;**(Sep 2017&ndash;Jan 2018)**
   - Department of International Business Administration, Chinese Culture University, Taiwan, China
@@ -50,9 +50,9 @@ title: 'CV'
 - Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25.
 
 *Papers submitted or in preparation*
-- Teng Li, Shaoni Wang, Deyizhou, Amar Razzaq (in prep.). ***Consumer Attention and Market Structure in E-Commerce: An Agent-Based Perspective***.
-- Teng Li, Deyizhou (in prep.). ***Consumer Types and E-Retailing Market Concentration: An Agent-Based Approach***.
 - Teng Li, Wander Jager, Andreas Flache (in prep.). ***How culture can affect opinion dynamics: the case of vaccination***.
+- Teng Li, Shaoni Wang, Deyizhou, Amar Razzaq (in prep.). ***Consumer Attention and Market Structure in E-Commerce: An Agent-Based Perspective***.
+- Teng Li (in prep.). ***Consumer Types and E-Retailing Market Concentration: An Agent-Based Approach***.
 
 ----------
 
