@@ -116,3 +116,22 @@ title: 'CV'
 - Excellent Volunteer of the 23rd Qingdao International Beer Festival in 2013
 - Excellent Volunteer of the 2nd Nanjing Youth Olympic Games in 2014
 - Outstanding Volunteer of the 2020 Bishan Rural Education Summer Camp
+
+----------
+
+## REFEREES
+
+- **Dr. Andreas Flache**
+  - Professor of Sociology, Director of research, Scientific director ICS
+  - Department of Sociology, ICS, University of Groningen, Grote Kruisstraat 2/1, 9712TS Groningen, The Netherlands
+  - Email: <a.flache@rug.nl>
+  
+- **Dr. Wander Jager**
+  - Associate Professor and Managing Director of the Groningen Center for Social Complexity Studies
+  - University of Groningen, Hoendiepskade 23-24, 9718BG Groningen, The Netherlands
+  - Email: <w.jager@rug.nl>
+
+- **Dr. Deyi Zhou**
+  - Professor of Economics
+  - College of Economics & Management, Huazhong Agricultural University，No.1, Shizishan Street, Wuhan, China
+  - Email: <zdy@mail.hzau.edu.cn>
