@@ -21,7 +21,7 @@ title: 'CV'
 ## EDUCATION
 
 - **Double-degree PhD of Management and Social Simulation**&emsp;**(Sep 2018&ndash;)**
-  - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands, May 2021&ndash;Sep 2024
+  - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands, May 2021&ndash;Dec 2024
   - College of Economics and Management, Huazhong Agricultural University, China, Sep 2018&ndash;Apr 2021
   - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
 
