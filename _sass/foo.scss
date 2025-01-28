@@ -10,5 +10,12 @@ body {
 }
 
 body a {
-  color: $linkColor
+  color: $linkColor;
+  text-decoration: none; /* Remove underline by default */
+}
+
+body a:hover {
+  text-decoration: underline; /* Add underline on hover */
+  /* OR */
+  // color: darken($linkColor, 10%); /* Darken the link color on hover */
 }
