@@ -32,4 +32,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/echo-teng-li-b846a7231'}
 
 contacts:
-- {name: 'Teng Li', title: 'PhD candidate', department: 'Faculty of Behavioural and Social Sciences', institution: 'University of Groningen', institution_address: 'Grote Kruisstraat 2/1, 9712 TS Groningen, The Netherlands', phone: '(+31) 503637623', email: 'teng.li@rug.nl', office: 'B.119', image: 'assets/img/contact.jpg'}
+- {name: 'Teng Li', title: 'Postdoc Researcher', department: 'Faculty of Behavioural and Social Sciences', institution: 'University of Groningen', institution_address: 'Grote Kruisstraat 2/1, 9712 TS Groningen, The Netherlands', phone: '(+31) 503637623', email: 'teng.li@rug.nl', office: 'B.119', image: 'assets/img/contact.jpg'}
