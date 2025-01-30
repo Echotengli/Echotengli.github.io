@@ -11,6 +11,8 @@ menu:
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 life:
+- {name: '找工作的体验', url: 'https://mp.weixin.qq.com/s/GgUNMbInihkIBslFMV4MFw'}
+- {name: 'A Letter From Supervisor', url: 'https://mp.weixin.qq.com/s/TkSh4XjkhabIiEBe8UHUeA'}
 - {name: '找工作的心路', url: 'https://mp.weixin.qq.com/s/yIB6Aesy9fN9blB3kDZzuQ'}
 - {name: '找工作的原则', url: 'https://mp.weixin.qq.com/s/vCNNv1QG8Ym-YYvh6ebsGQ'}
 - {name: 'Bike workshop Mutual Aid zine', url: 'https://mp.weixin.qq.com/s?__biz=MzU4NjI3MDQ5Mg==&mid=2247486489&idx=1&sn=91d1748070966e62489ff109bd5c064c&chksm=fdfc9e6aca8b177c67d35997a9b8cee4f2de6ea7611f22d445690aead997a29746e7e28c7ab5&scene=0&xtrack=1#rd'}
