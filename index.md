@@ -7,4 +7,4 @@ I have just graduated from a double-degree PhD program at [Huazhong Agricultural
 
 <!-- You can find more of my work in [publications](/publications). -->
 
-Currrently I am a postdoc researcher in an EU project [PREPSHIELD](https://crimedim.uniupo.it/projects/prepshield) - Preparedness for Society in Health Crises and Disasters, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis.
+Currently I am a postdoc researcher in an EU project [PREPSHIELD](https://crimedim.uniupo.it/projects/prepshield) - Preparedness for Society in Health Crises and Disasters, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis.
