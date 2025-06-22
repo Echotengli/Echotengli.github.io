@@ -1,21 +1,20 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
+    <!-- {% if page.title == "Home" %} -->
       <!-- {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %} -->
-      {% for item in site.data.publications.index %}
-        <!-- The following if block is to bold featured articles. -->
-        {% if item.featured %}
-          <strong>{{ item.name }}</strong>
-          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-        {% else %}
-          {{ item.name }}
-          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+    {% for item in site.data.publications.index %}
+      <!-- The following if block is to bold featured articles. -->
+      {% if item.featured == true %}
+        <p><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a></p>
+      {% else %}
+        <!-- {{ item.name }} -->
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endif %}
+    {% endfor %}
+    <!-- {% endif %} -->
   </div>
 </div>
