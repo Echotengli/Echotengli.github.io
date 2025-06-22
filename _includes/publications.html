@@ -8,6 +8,12 @@
     {% else %}
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <!-- The following if block is to bold featured articles. -->
+        {% if item.featured %}
+          <strong>{{ item.title }}</strong>
+        {% else %}
+          {{ item.title }}
+        {% endif %}
       {% endfor %}
     {% endif %}
   </div>
