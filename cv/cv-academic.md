@@ -20,10 +20,12 @@ title: 'CV'
 
 ## EDUCATION
 
-- **Double-degree PhD of Management and Social Simulation**&emsp;**(Sep 2018&ndash;)**
-  - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands, May 2021&ndash;Dec 2024
-  - College of Economics and Management, Huazhong Agricultural University, China, Sep 2018&ndash;Apr 2021
-  - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
+- **Double PhD of Management and Social Simulation**
+  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
+    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands
+  - **PhD of Management**&emsp;**(Sep 2018&ndash;Jun 2025)**
+    - College of Economics and Management, Huazhong Agricultural University, China
+    - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
 
 - **Visiting Master**&emsp;**(Sep 2017&ndash;Jan 2018)**
   - Department of International Business Administration, Chinese Culture University, Taiwan, China
@@ -42,6 +44,10 @@ title: 'CV'
 ## ACADEMIC PUBLICATIONS
 
 *Peer-reviewed journal articles*
+
+- Li, T., Flache, A., & Jager, W. (2025). ***How Culture Can Affect Opinion Dynamics: The Case of Vaccination***. Journal of Computational Social Science, 8(1), 1-45. [https://doi.org/10.1007/s42001-024-00347-7](https://doi.org/10.1007/s42001-024-00347-7)
+- Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). ***Consumer Attention and Market Concentration in E-Commerce: An Agent-Based Perspective***. Journal of Economic Interaction and Coordination, 1-27. [https://doi.org/10.1007/s11403-025-00443-5](https://doi.org/10.1007/s11403-025-00443-5)
+- Li, T. (2024). ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***. PhD Thesis, University of Groningen. [https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425)
 - Li, Teng and Jager, Wander (2023). ***How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation: An Opinion Dynamics Simulation of the Case of COVID-19 Vaccination***. Journal of Artificial Societies and Social Simulation 26(4)2. [http://jasss.soc.surrey.ac.uk/26/4/2.html](http://jasss.soc.surrey.ac.uk/26/4/2.html). doi: 10.18564/jasss.5135
 - Li T., Zhou D., Razzaq A., Wang Q. ***Rethinking the Role of Grain Banks in China’s Agriculture***. Agriculture. 2021; 11(1):49. [https://doi.org/10.3390/agriculture11010049](https://doi.org/10.3390/agriculture11010049)
 - Li, T., & Zhou, D. (2022). ***An Analysis of Rural Revitalization from the Perspective of Sharing Economy***. Journal of Innovative Agriculture and Social Development, 1(1), 12–22. [https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20](https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20)
@@ -50,14 +56,14 @@ title: 'CV'
 - Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25.
 
 *Papers submitted or in preparation*
-- Teng Li, Wander Jager, Andreas Flache (in prep.). ***How culture can affect opinion dynamics: the case of vaccination***.
-- Teng Li, Shaoni Wang, Deyizhou, Amar Razzaq (in prep.). ***Consumer Attention and Market Structure in E-Commerce: An Agent-Based Perspective***.
+
 - Teng Li (in prep.). ***Consumer Types and E-Retailing Market Concentration: An Agent-Based Approach***.
 
 ----------
 
 ## RESEARCH PROJECTS
 
+- Postdoc researcher in EU project PREPSHIELD - ***Preparedness for Society in Health Crises and Disasters***, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis. (2024&ndash;present)
 - Participated in ***Sharing of Entrepreneurial Internship Bases for University Students and Sino-Foreign Agricultural Science and Technology Cooperation in the Context of "Belt and Road".*** OEI under 'Belt and Road Initiative' in Cultural and Educational Sector, DL20180061. Mar 2018&ndash;Dec 2020, CNY315,000
 - Participated in ***Research on Innovation Product Diffusion Model and Application Based on Micro-Individual Dynamic Decision-Making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
 - Participated in ***Survey on the Current Situation of Egyptian Agriculture and Analysis of the Potential of China-Egypt Agricultural Cooperation.*** International Science and Technology Cooperation Cultivation Project of Huazhong Agricultural University Autonomous Science and Technology Innovation Fund, 2662017PY071. May 2017&ndash;Dec 2018, CNY100,000
@@ -69,6 +75,7 @@ title: 'CV'
 
 *Peer-reviewed conference presentations*
 
+- ***Consumer Type and E-Retailing Market Concentration: An Agent-Based Approach***. 19th European Social Simulation Conference in Krakow, Poland, Sep 16&ndash;20, 2024
 - ***How Does Culture Affect Vaccination Opinion Polarisation?*** 18th European Social Simulation Conference in Glasgow, UK. Sep 4&ndash;8, 2023
 - ***How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation: An Opinion Dynamics Simulation of the Case of COVID-19 Vaccination***. 17th European Social Simulation Conference in Milan, Italy. Sep 12&ndash;16, 2022
 - ***Fear-Based Opinion Dynamics Towards COVID-19 Vaccination*** (Best Poster Award). Launching ceremony and the first conference of the Asian Social Simulation Association (ASSA), Wuhan, China, Aug 2023
@@ -135,3 +142,9 @@ title: 'CV'
   - Professor of Economics
   - College of Economics & Management, Huazhong Agricultural University，No.1, Shizishan Street, Wuhan, China
   - Email: <zdy@mail.hzau.edu.cn>
+
+- **Dr. Francesca Giardini**
+  - Associate professor of Sociology
+  - Faculty of Behavioural and Social Sciences, University of Groningen, Grote Kruisstraat 2/1, 9712TS Groningen, The Netherlands
+  - Email: <f.giardini@rug.nl>
+  
