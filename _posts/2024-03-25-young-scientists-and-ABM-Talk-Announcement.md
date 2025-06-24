@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Young Scientists & ABM Talk Announcement"
 ---
 

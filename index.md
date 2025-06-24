@@ -8,3 +8,7 @@ I have just graduated from a double-degree PhD program at [*Huazhong Agricultura
 <!-- You can find more of my work in [publications](/publications). -->
 
 Currently I am a postdoc researcher in an EU project [*PREPSHIELD*](https://crimedim.uniupo.it/projects/prepshield) - Preparedness for Society in Health Crises and Disasters, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis.
+
+Beside science I like traveling and writing. I seem to have a nomadic temperament and love living in different places and enjoying the diversity. The distinctive lifestyle and philosophy of the locals are always the most fascinating aspects of traveling, and are what I strive to document.
+
+[*My footprint*]({{site.github.url}}{% link liteng_footprint.html %})

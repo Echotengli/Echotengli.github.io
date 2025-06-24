@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Back at my alma mater to share my PhD findings"
 ---
 

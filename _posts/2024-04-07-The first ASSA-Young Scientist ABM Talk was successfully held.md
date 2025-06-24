@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "The first ASSA-Young Scientist ABM Talk was successfully held"
 ---
 
