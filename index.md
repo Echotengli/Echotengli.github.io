@@ -3,12 +3,9 @@ layout: home
 title: "Home"
 ---
 
-I have just graduated from a double-degree PhD program at [*Huazhong Agricultural University*](https://www.hzau.edu.cn/) (China) and [*University of Groningen*](https://www.rug.nl/) (The Netherlands). [*My PhD project*](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425) explores the collective consequences of bounded rationality in opinion dynamics in networks.
+Having just graduated from a double-degree PhD program at [*Huazhong Agricultural University*](https://www.hzau.edu.cn/) and [*University of Groningen*](https://www.rug.nl/), with a [*PhD project*](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425) exploring the collective consequences of bounded rationality in opinion dynamics in networks, currently I work as a postdoc in an EU project [*PREPSHIELD*](https://crimedim.uniupo.it/projects/prepshield) - Preparedness for Society in Health Crises and Disasters, focusing on data analysis and simulating how human psychological and social features affect agents’ behaviors in a health crisis.
 
-<!-- You can find more of my work in [publications](/publications). -->
+Beside science I like traveling and writing. I love experiencing different places and diversity. The lifestyle and philosophy of the locals are the most fascinating part of traveling, which I strive to document.
 
-Currently I am a postdoc researcher in an EU project [*PREPSHIELD*](https://crimedim.uniupo.it/projects/prepshield) - Preparedness for Society in Health Crises and Disasters, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis.
-
-Beside science I like traveling and writing. I seem to have a nomadic temperament and love living in different places and enjoying the diversity. The distinctive lifestyle and philosophy of the locals are always the most fascinating aspects of traveling, and are what I strive to document.
-
-[*My footprint*]({{site.github.url}}{% link liteng_footprint.html %})
+<!-- [***My footprint***]({{site.github.url}}{% link liteng_footprint.html %}) -->
+[***My footprint***](/footprint/liteng_footprint.html)
