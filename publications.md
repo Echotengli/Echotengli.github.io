@@ -5,7 +5,7 @@ title: "Publications"
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
 
-Li, T., Flache, A., & Jager, W. (2025). How culture can affect opinion dynamics: the case of vaccination. *Journal of Computational Social Science*, 8(1), 1-45. [*dio*](https://doi.org/10.1007/s42001-024-00347-7)
+Li, T., Flache, A., & Jager, W. (2025). How culture can affect opinion dynamics: the case of vaccination. *Journal of Computational Social Science*, 8(1), 1-45. [*doi*](https://doi.org/10.1007/s42001-024-00347-7)
 
 Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). Consumer attention and market concentration in e-commerce: an agent-based perspective. *Journal of Economic Interaction and Coordination*, 1-27. [*doi*](https://doi.org/10.1007/s11403-025-00443-5)
 
