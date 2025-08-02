@@ -2,3 +2,4 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Teng Li" # the name of your site, e.g. ACME Corp.
 description: "a computational social scientist on the way"
+repository: echotengli/echotengli.github.io
