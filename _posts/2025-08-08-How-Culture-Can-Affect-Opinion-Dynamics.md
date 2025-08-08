@@ -1,6 +1,6 @@
 ---
 layout: default
-title: “Paper Highlight | How Culture Can Affect Opinion Dynamics: The Case of Vaccination”
+title: "Paper Highlight | How Culture Can Affect Opinion Dynamics: The Case of Vaccination"
 ---
 
 Over the past few years, many of us have grappled with questions like:
