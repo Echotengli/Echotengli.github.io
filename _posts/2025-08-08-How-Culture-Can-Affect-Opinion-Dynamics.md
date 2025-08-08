@@ -3,7 +3,7 @@ layout: default
 title: "Paper Highlight | How Culture Can Affect Opinion Dynamics: The Case of Vaccination"
 ---
 
-<img width="2125" height="561" alt="1753385115268" src="https://github.com/user-attachments/assets/61392f8a-04c1-4152-9ab9-c1740c5ace45" />
+<img width="625" height="361" alt="1753385115268" src="https://github.com/user-attachments/assets/61392f8a-04c1-4152-9ab9-c1740c5ace45" />
 
 
 Over the past few years, many of us have grappled with questions like:
@@ -51,7 +51,7 @@ Key observations include:
 
 
 ### ✅ Collectivism doesn’t always foster consensus
-<img width="1526" height="1212" alt="1d92ad7877638283bc8f4ee5c634996" src="https://github.com/user-attachments/assets/7e22e67c-70f9-4572-86ef-d3f9d983011b" />
+<img width="426" height="412" alt="1d92ad7877638283bc8f4ee5c634996" src="https://github.com/user-attachments/assets/7e22e67c-70f9-4572-86ef-d3f9d983011b" />
 
 - In the absence of institutional influence, **collectivist cultures promote convergence**.
 - But when authority is fragmented or inconsistent, **collectivism can amplify polarization**.
@@ -90,7 +90,7 @@ Key observations include:
 ### ✅ A three-dimensional framework: Culture × Institutions × Network Structure
 
 > The authors propose a new theoretical model that synthesizes these three dimensions, offering a roadmap for future research on opinion dynamics and cultural diversity.
-<img width="3057" height="2401" alt="F5 23" src="https://github.com/user-attachments/assets/490b9038-1d4f-4300-8484-142efb97e223" />
+<img width="405" height="401" alt="F5 23" src="https://github.com/user-attachments/assets/490b9038-1d4f-4300-8484-142efb97e223" />
 
 
 ---
