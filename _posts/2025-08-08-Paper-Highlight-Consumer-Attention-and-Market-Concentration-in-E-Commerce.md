@@ -21,6 +21,9 @@ In digital marketplaces, the core challenge for consumers has shifted from infor
 ## Method: Agent-Based Modeling
 
 This study adopts agent-based modeling (ABM), a cutting-edge computational approach that simulates the micro-level decision-making of heterogeneous consumers to observe emergent macro-level market patterns.
+
+![Conceptual Framework][https://github.com/silas6012/thesis/blob/4e3616b238da6cd22f391ee54e1917ee21b14092/images/chapter2/conceptual%20framework.png]
+
 Key innovations in the model include:
 
 ### Key Features of the Model:
