@@ -17,7 +17,7 @@ Bridging cultural psychology and computational social science, the study integra
 
 ---
 
-## 🧪 Modeling Culture: Virtual Experiments on Cross-Cultural Opinion Dynamics
+## Modeling Culture: Virtual Experiments on Cross-Cultural Opinion Dynamics
 
 While prior research often treated culture as an abstract background variable, this study made it **computable**.
 
@@ -44,7 +44,7 @@ Key observations include:
 
 ---
 
-## 🔍 Key Findings: Culture Shapes Both Attitudes and Polarization Risks
+## Key Findings: Culture Shapes Both Attitudes and Polarization Risks
 
 ### ✅ Collectivism doesn’t always foster consensus
 
@@ -100,13 +100,13 @@ This may explain why some countries manage pandemic communication more effective
 
 ## 💡 Practical Takeaways
 
-### 🎯 For the public:
+### For the public:
 
 > Next time you find yourself arguing about vaccines, consider this: the person you're debating might simply be running on a different **cultural “script.”**
 
 ---
 
-### 🏛️ For policymakers:
+### For policymakers:
 
 Avoid **one-size-fits-all** communication strategies. This study shows how **tailored messaging** based on cultural context can make a significant difference:
 
