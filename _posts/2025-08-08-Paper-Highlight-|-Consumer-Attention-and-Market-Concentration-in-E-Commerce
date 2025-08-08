@@ -1,0 +1,97 @@
+# 📘 Paper Highlight | Consumer Attention and Market Concentration in E-Commerce: An Agent-Based Perspective
+
+In the context of rapid digital economic development, e-commerce platforms are exhibiting increasingly concentrated market structures. The paper *["Consumer attention and market concentration in e-commerce: an agent-based perspective"](https://doi.org/10.1007/s11403-025-00443-5)* by **Li et al. (2025)**, published in the *Journal of Economic Interaction and Coordination*, employs an **agent-based modeling (ABM)** approach to investigate a critical question:
+
+> How does limited consumer attention shape market outcomes in digital platforms?
+
+The study reveals that even in markets without product differentiation, the **scarcity of consumer attention** can spontaneously lead to "winner-takes-all" outcomes, providing a fresh perspective on monopolistic dynamics in the platform economy.
+
+---
+
+## 🔍 Background: When Attention Becomes Scarce, Who Wins?
+
+As digital marketplaces grow larger and more complex, several puzzles emerge:
+
+- Why do certain sellers emerge as dominant “superstars”? 
+- Why do sales of seemingly identical products vary so drastically between sellers?
+
+Consumers today are no longer limited by information scarcity—they face **information overload**. While digital platforms offer near-unlimited choices, **cognitive limitations** restrict consumers’ ability to process all options. Yet most studies on market concentration focus on the **supply side** (e.g., pricing, product quality), neglecting the **demand-side dynamics** driven by bounded attention.
+
+---
+
+## 🧠 Method: Simulating Consumer Behavior via Agent-Based Modeling
+
+The study uses an **agent-based simulation model** to replicate how thousands of consumers with **limited attention** navigate a digital marketplace.
+
+### Key Features of the Model:
+
+- **Consumer cognition as parameters**: Attention span, decision heuristics, and social connectivity are all modeled.
+- **Seller homogeneity**: All sellers offer *identical* products—this isolates the effects of consumer-side dynamics.
+- **Social network embedding**: Consumers are embedded in a network and influenced by peer recommendations.
+
+This setup allows the authors to test how attention scarcity alone (independent of price or product quality) leads to **market concentration**.
+
+---
+
+## 📊 Findings
+
+### 1. Attention Scarcity Drives Concentration
+
+When consumers can only examine a few sellers, the market **self-organizes** into a highly concentrated structure. Top sellers accumulate most of the market share—even when all products are the same.
+
+### 2. Equal Products, Unequal Outcomes
+
+Due to **random exposure and social influence**, some sellers gain early advantages, which snowball into dominance—even without product differentiation.
+
+---
+
+## ⚙️ Two Mechanisms of Competitive Advantage
+
+- **Random Competitive Advantage**  
+  Initial visibility (e.g., through chance reviews or algorithmic placement) creates an early edge. This advantage is **not quality-based**, but luck-based.
+
+- **Cumulative Competitive Advantage**  
+  Once a seller gains early attention, they are more likely to receive future clicks, reviews, and algorithmic boosts—creating a feedback loop. This results in a **Matthew Effect**: *the rich get richer*.
+
+These mechanisms reinforce each other, **amplifying market concentration** through non-intentional dynamics.
+
+---
+
+## 🎯 Contributions
+
+- Introduces **consumer attention** as a standalone factor in explaining market structure.
+- Bridges **attention economics** and **market evolution theory** using ABM.
+- Demonstrates that **consumer behavior alone**—even in a product-homogeneous environment—can lead to concentration.
+- Shows the power of ABM in capturing **nonlinear, emergent market behaviors** that traditional equilibrium models overlook.
+
+---
+
+## 🧭 Implications
+
+### ➤ For Platforms
+
+- Optimize recommendation systems to help users distribute limited attention fairly.
+- Consider balancing exposure between top and long-tail sellers.
+
+### ➤ For Regulators
+
+- Recognize that **market concentration** can stem from attention allocation, not just anti-competitive behavior.
+- Develop policies to address **algorithm-driven visibility bias**.
+
+### ➤ For Small Sellers
+
+- Leverage **social proof** and **network visibility** to gain attention.
+- Strategies like review generation and keyword optimization are crucial.
+
+---
+
+## 🧩 Conclusion
+
+This paper provides **simulation-based evidence** on how attention scarcity can shape digital markets—offering both **theoretical insight** and **practical relevance**. It is particularly valuable for researchers in **complex systems, e-commerce, and behavioral economics**.
+
+---
+
+## 📖 Reference
+
+Li, T., Wang, S., Zhou, D., et al. (2025). *Consumer attention and market concentration in e-commerce: an agent-based perspective*. *Journal of Economic Interaction and Coordination*. [https://doi.org/10.1007/s11403-025-00443-5](https://doi.org/10.1007/s11403-025-00443-5)
+
