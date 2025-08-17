@@ -58,14 +58,14 @@ Gilgit,Pakistan,74.314044,35.9208102
 Groningen,Netherlands,6.5680077,53.2190652
 Amsterdam,Netherlands,4.8924534,52.3730796
 Friesland,Netherlands,5.777043,53.0923689
-Schiermonnikoog,Netherlands,6.2037718,53.4787891
-Zwolle,Netherlands,6.0977204,52.5145653
+Schiermonnikoog,Netherlands,6.1610076,53.4782844
+Zwolle,Netherlands,6.0943765,52.5089759
 Rotterdam,Netherlands,4.47775,51.9244424
-Leiden,Netherlands,4.4811089,52.1518157
-Nijmegen,Netherlands,5.8389606,51.8425749
+Leiden,Netherlands,4.4908843,52.1594747
+Nijmegen,Netherlands,5.8637771,51.8474946
 Utrecht,Netherlands,5.1215634,52.0907006
-Eindhoven,Netherlands,5.478633,51.4392648
-Maastricht,Netherlands,5.6909768,50.8512438
+Eindhoven,Netherlands,5.4501225,51.4485569
+Maastricht,Netherlands,5.6969882,50.8579855
 The Hague,Netherlands,4.2696802,52.0749456
 Hoorn,Netherlands,5.0735802,52.653272
 Bremen,Germany,8.8071646,53.0758196
@@ -92,3 +92,7 @@ Athens,Greece,23.7348324,37.9755648
 Termoli,Italy,14.9939366,41.9983273
 Rome,Italy,12.4829321,41.8933203
 Leer,Germany,7.459464,53.2050927
+Berlin,Germany,13.3989367,52.510885
+Hamburg,Germany,10.000654,53.550341
+Hanover,Germany,9.7385532,52.3744779
+Bad Kleinen,Germany,11.4727533,53.7706474
