@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Why Attend Meetings?"
+title: "Why Meetings?"
 ---
-# Why Attend Meetings? 
 
 Recently, I was away for a week attending an annual academic conference and missed some phone calls from home. My mom asked: “Why always meetings, even at school?”  
 I was momentarily at a loss for words.  
@@ -49,5 +48,4 @@ In Chinese culture, action has always been valued over words. As the Analects sa
 
 In Dutch culture, the logic is almost the opposite: words are seen as enabling action. Communication is not secondary to action but its precondition. Directness and clarity are valued not only for efficiency but also as a foundation of trust. Here, speech and action are not opposites: speech clarifies ideas and builds consensus, while action fulfills those commitments. Put differently: without speech, collective action cannot take shape; without action, speech loses credibility.  
 
-## With that said, it’s time to go to a meeting!  
-
+With that said, it’s time to go to a meeting!  
