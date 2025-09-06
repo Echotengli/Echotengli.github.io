@@ -3,6 +3,8 @@ layout: default
 title: "Why Meetings?"
 ---
 
+# Why Meetings?  
+
 Recently, I was away for a week attending an annual academic conference and missed some phone calls from home. My mom asked: “Why always meetings, even at school?”  
 I was momentarily at a loss for words.  
 
