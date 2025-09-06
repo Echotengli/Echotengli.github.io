@@ -6,9 +6,12 @@ title: "Why Meetings?"
 # Why Meetings?  
 
 Recently, I was away for a week attending an annual academic conference and missed some phone calls from home. My mom asked: “Why always meetings, even at school?”  
+
 I was momentarily at a loss for words.  
 
-Attending meetings has become one of my main activities these days. At the busiest times, I may have more than one every day; at the very least, one per week. This got me thinking: Why do we attend meetings?  
+Attending meetings has become one of my main activities these days. At the busiest times, I may have more than one every day; at the very least, one per week. 
+
+This got me thinking: Why do we attend meetings?  
 
 ## First, what is a meeting?  
 
@@ -18,7 +21,7 @@ Of course, here I am mainly referring to academic meetings, which may differ fro
 
 Academic meetings take many forms. Some focus on reporting progress, such as group meetings; others emphasize information delivery, like lectures and webinars. Workshops encourage interaction and co-creation. Large-scale academic gatherings, such as annual meetings or international conferences, are more like community-wide events for an entire discipline.  
 
-In my opinion, a meeting is an opportunity for exchange and discussion.  
+In my opinion, **a meeting is an opportunity for exchange and discussion**.  
 
 ## Why attend meetings?  
 
@@ -33,9 +36,10 @@ But then again, during our student years, weren’t classes our main mode of lea
 
 In fact, classes can also be seen as a form of meeting, just a more conservative one.  
 
-Ideally, a class should involve back-and-forth discussion. True teaching and learning happen in dialogue. However, the classroom culture we are familiar with may overemphasize the role of teachers imparting knowledge. The result? Teachers speak eloquently while students sit silently, creating a purely listening-based learning model. Growing up in this system, we gradually become accustomed to “listening more, speaking less,” even considering it a virtue.  
+Ideally, a class should involve back-and-forth discussion. True teaching and learning happen in dialogue. However, the classroom culture we are familiar with may overemphasize the role of teachers imparting knowledge. The result? Teachers speak eloquently while students sit silently, creating a purely listening-based learning model. Growing up in this system, we gradually become accustomed to “**listening more, speaking less**,” even considering it a virtue.  
 
 By the time we reach the PhD stage, we finally feel a sense of liberation: no more classes, just meetings. We become the protagonists who "speak".  
+
 But by then, we’ve almost forgotten how to speak, how to express ourselves.  
 
 Perhaps this reflects the logic of our education system. In youth, with limited knowledge reserves, the main task is to “acquire knowledge,” hence, classes are primarily one-way knowledge transfers from teachers. By the doctoral stage, students have accumulated enough knowledge to somewhat “challenge” their supervisors, and discussion, questioning, and exchange become the primary modes of learning.  
@@ -46,7 +50,7 @@ In the Netherlands, I often hear such comments about student presentations: Dutc
 
 This is not a judgment of ability, but a reflection of cultural difference. In Western educational environments, expression and communication are central to academic training, and students learn to make their work “come alive.” In contrast, we often place too much emphasis on perfect results while neglecting the value of communication itself, making expression a weak point.  
 
-In Chinese culture, action has always been valued over words. As the Analects says: “The gentleman is quick in action but cautious in speech.” Within this logic, restraint and modesty are seen as virtues, and actions are the ultimate proof of one’s worth. Speaking too much—or improperly—is seen as risky: “The more one says, the more mistakes one makes.” It’s better to earn others’ recognition through action.  
+In Chinese culture, action has always been valued over words. As the **Analects** says: “**The gentleman is quick in action but cautious in speech.**” Within this logic, restraint and modesty are seen as virtues, and actions are the ultimate proof of one’s worth. Speaking too much—or improperly—is seen as risky: “**The more one says, the more mistakes one makes.**” It’s better to earn others’ recognition through action.  
 
 In Dutch culture, the logic is almost the opposite: words are seen as enabling action. Communication is not secondary to action but its precondition. Directness and clarity are valued not only for efficiency but also as a foundation of trust. Here, speech and action are not opposites: speech clarifies ideas and builds consensus, while action fulfills those commitments. Put differently: without speech, collective action cannot take shape; without action, speech loses credibility.  
 
