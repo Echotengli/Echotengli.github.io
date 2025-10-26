@@ -50,7 +50,7 @@ title: 'CV'
 
 *Peer-reviewed journal articles*
 
-- Li, Teng (2025). ***Consumer Heterogeneity and E-Retailing Market Concentration: An Agent-Based Approach***. Journal of Artificial Societies and Social Simulation. 28 (4) 3. [http://jasss.soc.surrey.ac.uk/28/4/3.html](http://jasss.soc.surrey.ac.uk/28/4/3.html). doi: 10.18564/jasss.5699
+- Li, Teng (2025). ***Consumer Heterogeneity and E-Retailing Market Concentration: An Agent-Based Approach***. Journal of Artificial Societies and Social Simulation. 28 (4) 3. doi: 10.18564/jasss.5699. [http://jasss.soc.surrey.ac.uk/28/4/3.html](http://jasss.soc.surrey.ac.uk/28/4/3.html)
 - Li, T., Flache, A., & Jager, W. (2025). ***How Culture Can Affect Opinion Dynamics: The Case of Vaccination***. Journal of Computational Social Science, 8(1), 1-45. [https://doi.org/10.1007/s42001-024-00347-7](https://doi.org/10.1007/s42001-024-00347-7)
 - Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). ***Consumer Attention and Market Concentration in E-Commerce: An Agent-Based Perspective***. Journal of Economic Interaction and Coordination, 1-27. [https://doi.org/10.1007/s11403-025-00443-5](https://doi.org/10.1007/s11403-025-00443-5)
 - Li, T. (2024). ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***. PhD Thesis, University of Groningen. [https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425)
@@ -122,7 +122,7 @@ title: 'CV'
 - **ASSA Best Student Poster Award**. Issued by Asian Social Simulation Association, Aug 2023
 - **Third Prize in the Excellent Paper Competition** of the First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technology for Innovation and Entrepreneurship Practice, Dec 25, 2018
 - **Second Prize of the First National New Retail Entrepreneurship Competition**. Issued by China General Chamber of Commerce (CGCC) & Alibaba.com, Oct 2019
-- **Three times National Encouragement Scholarship, Outstanding undergraduate award, and Excellent graduation project award** 
+- **Three times National Encouragement Scholarship, Outstanding undergraduate award, and Excellent graduation project award**. 2016&ndash;2018
 
 ----------
 
