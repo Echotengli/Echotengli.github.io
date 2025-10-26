@@ -9,14 +9,19 @@ title: 'CV'
 <!-- <div align='center' ><font size='20'>Teng Li (Echo)</font></div> -->
 # Teng Li (Echo)
 
-**Double-degree PhD in Management and Social Simulation**
+**Double-degree PhD in Management and Computational Social Science**
 
 **Website**: <https://echotengli.github.io>&nbsp; &nbsp; **Email**: <teng.li@rug.nl>&nbsp; &nbsp; **Post**: Turfsingel 30-4, 9712KR Groningen, The Netherlands
 
-**Shortcut:**&nbsp; [Education](#education)&nbsp; &nbsp; [Academic publications](#academic-publications)&nbsp; &nbsp; [Research projects](#research-projects)&nbsp; &nbsp; [Exchange & fieldwork](#exchange--fieldwork)&nbsp; &nbsp; [Non-Academic publications](#non-academic-publications)&nbsp; &nbsp; [Honors & awards](#honors--awards)&nbsp; &nbsp; [Volunteer](#volunteer)&nbsp; &nbsp; [PDF](/cv/cv-academic.pdf)
+**Shortcut:**&nbsp; [Employment experience](#employment-experience)&nbsp; &nbsp; [Education](#education)&nbsp; &nbsp; [Academic publications](#academic-publications)&nbsp; &nbsp; [Research projects](#research-projects)&nbsp; &nbsp; [Exchange & fieldwork](#exchange--fieldwork)&nbsp; &nbsp; [Non-Academic publications](#non-academic-publications)&nbsp; &nbsp; [Honors & awards](#honors--awards)&nbsp; &nbsp; [Volunteer](#volunteer)&nbsp; &nbsp; [PDF](/cv/cv-academic.pdf)
 
 -----------
 <!-- <br/> -->
+
+## EMPLOYMENT EXPERIENCE
+
+- **Postdoctoral Researcher** &emsp;**(Feb 2025&ndash;present)**
+  - EU project PREPSHIELD, Faculty of Behavioral and Social Sciences, University of Groningen, The Netherlands
 
 ## EDUCATION
 
@@ -45,25 +50,27 @@ title: 'CV'
 
 *Peer-reviewed journal articles*
 
+- Li, Teng (2025). ***Consumer Heterogeneity and E-Retailing Market Concentration: An Agent-Based Approach***. Journal of Artificial Societies and Social Simulation. 28 (4) 3. [http://jasss.soc.surrey.ac.uk/28/4/3.html](http://jasss.soc.surrey.ac.uk/28/4/3.html). doi: 10.18564/jasss.5699
 - Li, T., Flache, A., & Jager, W. (2025). ***How Culture Can Affect Opinion Dynamics: The Case of Vaccination***. Journal of Computational Social Science, 8(1), 1-45. [https://doi.org/10.1007/s42001-024-00347-7](https://doi.org/10.1007/s42001-024-00347-7)
 - Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). ***Consumer Attention and Market Concentration in E-Commerce: An Agent-Based Perspective***. Journal of Economic Interaction and Coordination, 1-27. [https://doi.org/10.1007/s11403-025-00443-5](https://doi.org/10.1007/s11403-025-00443-5)
 - Li, T. (2024). ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***. PhD Thesis, University of Groningen. [https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425)
 - Li, Teng and Jager, Wander (2023). ***How Availability Heuristic, Confirmation Bias and Fear May Drive Societal Polarisation: An Opinion Dynamics Simulation of the Case of COVID-19 Vaccination***. Journal of Artificial Societies and Social Simulation 26(4)2. [http://jasss.soc.surrey.ac.uk/26/4/2.html](http://jasss.soc.surrey.ac.uk/26/4/2.html). doi: 10.18564/jasss.5135
-- Li T., Zhou D., Razzaq A., Wang Q. ***Rethinking the Role of Grain Banks in China’s Agriculture***. Agriculture. 2021; 11(1):49. [https://doi.org/10.3390/agriculture11010049](https://doi.org/10.3390/agriculture11010049)
+- Li T., Zhou D., Razzaq A., Wang Q (2021). ***Rethinking the Role of Grain Banks in China’s Agriculture***. Agriculture, 11(1):49. [https://doi.org/10.3390/agriculture11010049](https://doi.org/10.3390/agriculture11010049)
 - Li, T., & Zhou, D. (2022). ***An Analysis of Rural Revitalization from the Perspective of Sharing Economy***. Journal of Innovative Agriculture and Social Development, 1(1), 12–22. [https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20](https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20)
-- Li T., Zhou D. ***Investigation and Analysis on the Development of "Grain Bank"&mdash;Taking Hubei Sanjie Group as an Example***. Grain Science and Technology and Economy, 2017,42(3):1-4. (in Chinese)
+- Li T., Zhou D. (2017). ***Investigation and Analysis on the Development of "Grain Bank"&mdash;Taking Hubei Sanjie Group as an Example***. Grain Science and Technology and Economy, 42(3):1-4. (in Chinese)
 - Puqing Wang, Saidi Yang, Teng Li. ***Blockchain Technology in Food Safety Governance***. The 2021 12th International Conference on E-business, Management and Economics (ICEME 2021) July 17&ndash;19, 2021, Part1, p90-95(included in EI)
-- Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25.
+- Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25
 
 *Papers submitted or in preparation*
 
-- Teng Li (in prep.). ***Consumer Types and E-Retailing Market Concentration: An Agent-Based Approach***.
+- Teng Li, Francesca Giardini, Marieke Haan. ***Vulnerable but compliant: An integrative review of barriers to compliance with health measures in COVID-19***. International Journal of Disaster Risk Reduction
+- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine
 
 ----------
 
 ## RESEARCH PROJECTS
 
-- Postdoc researcher in EU project PREPSHIELD - ***Preparedness for Society in Health Crises and Disasters***, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis. (2024&ndash;present)
+- Postdoc researcher in EU project PREPSHIELD - ***Preparedness for Society in Health Crises and Disasters***, focusing on data analysis and simulating how human psychological and social features affect, in separation and in combination, agents’ behaviors in a health crisis. (Feb 2025&ndash;present)
 - Participated in ***Sharing of Entrepreneurial Internship Bases for University Students and Sino-Foreign Agricultural Science and Technology Cooperation in the Context of "Belt and Road".*** OEI under 'Belt and Road Initiative' in Cultural and Educational Sector, DL20180061. Mar 2018&ndash;Dec 2020, CNY315,000
 - Participated in ***Research on Innovation Product Diffusion Model and Application Based on Micro-Individual Dynamic Decision-Making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
 - Participated in ***Survey on the Current Situation of Egyptian Agriculture and Analysis of the Potential of China-Egypt Agricultural Cooperation.*** International Science and Technology Cooperation Cultivation Project of Huazhong Agricultural University Autonomous Science and Technology Innovation Fund, 2662017PY071. May 2017&ndash;Dec 2018, CNY100,000
@@ -115,6 +122,7 @@ title: 'CV'
 - **ASSA Best Student Poster Award**. Issued by Asian Social Simulation Association, Aug 2023
 - **Third Prize in the Excellent Paper Competition** of the First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technology for Innovation and Entrepreneurship Practice, Dec 25, 2018
 - **Second Prize of the First National New Retail Entrepreneurship Competition**. Issued by China General Chamber of Commerce (CGCC) & Alibaba.com, Oct 2019
+- **Three times National Encouragement Scholarship, Outstanding undergraduate award, and Excellent graduation project award** 
 
 ----------
 
