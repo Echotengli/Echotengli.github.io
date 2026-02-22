@@ -14,14 +14,14 @@ Chuzhou,China,118.3139455,32.3027377
 Huangshan,China,118.3324811,29.7172627
 Xuzhou,China,117.1810431,34.2665258
 Shanghai,China,121.4700152,31.2312707
-Beijing,China,116.412144,40.190632
-Chongqing,China,107.8748712,30.05518
+Beijing,China,116.3912972,39.9057136
+Chongqing,China,106.5842092,29.5697328
 Hangzhou City,China,120.2052342,30.2489634
 Taizhou,China,121.4163876,28.6581723
 Jinhua,China,119.6486487,29.1080344
 Lishui,China,119.9184297,28.4704064
-Xinyang,China,114.853333,32.075
-Wuhan,China,114.2999353,30.5951051
+Xinyang,China,114.0852134,32.1461721
+Wuhan,China,114.2889707,30.5611595
 Enshi,China,109.4833079,30.2745483
 Yichang,China,111.2803512,30.6941332
 Guangshui,China,113.8407641,31.6838156
@@ -49,7 +49,7 @@ Tainan,Taiwan,120.184982,22.9912348
 Kaohsiung,Taiwan,120.3120375,22.6203348
 Chiayi County,Taiwan,120.2930004,23.4591664
 Nantou County,Taiwan,120.6909167,23.90235
-Hsinchu City,Taiwan,121.0094762,24.8398031
+Hsinchu City,Taiwan,121.0406054,24.8061646
 Ulaanbaatar,Mongolia,106.9177016,47.9184676
 Zamiin-Uud,Mongolia,111.8348703,43.8145643
 Islamabad,Pakistan,73.0651511,33.6938118
@@ -65,7 +65,7 @@ Leiden,Netherlands,4.4908843,52.1594747
 Nijmegen,Netherlands,5.8637771,51.8474946
 Utrecht,Netherlands,5.1215634,52.0907006
 Eindhoven,Netherlands,5.478633,51.4392648
-Maastricht,Netherlands,5.6969882,50.8579855
+Maastricht,Netherlands,5.6909768,50.8512438
 The Hague,Netherlands,4.3113461,52.0799838
 Hoorn,Netherlands,5.0735802,52.653272
 Bremen,Germany,8.8071646,53.0758196
@@ -80,7 +80,7 @@ Brussels,Belgium,4.352493,50.8467372
 City of Edinburgh,United Kingdom,-3.1883749,55.9533456
 Luxembourg,Luxembourg,6.1296751,49.8158683
 Assen,Netherlands,6.5506458,52.997225
-Krakow,Poland,19.9368564,50.0619474
+Krakow,Poland,19.9971534,50.0469432
 Leeuwarden,Netherlands,5.7918548,53.2005936
 Harlingen,Netherlands,5.4141998,53.1752103
 Eemshaven,Netherlands,6.8465032,53.448402
@@ -99,3 +99,4 @@ Bad Kleinen,Germany,11.4727533,53.7706474
 Changsha,China,112.9708685,28.1987538
 Changchun City,China,125.3180998,43.8844201
 Yangzhou City,China,119.4077658,32.3968554
+Novara,Italy,8.545997,45.58425
