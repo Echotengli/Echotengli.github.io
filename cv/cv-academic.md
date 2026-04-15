@@ -85,6 +85,24 @@ title: 'CV'
 
 ----------
 
+## ACADEMIC SERVICE
+
+*Academic Positions and Roles*
+
+- **Research Group Leader**, Rudolf Agricola School for Sustainable Development. link [https://www.rug.nl/rudolf-agricola-school/research/risk-crises-and-resilience/computational-modelling-for-resilient-socities]  
+- **Special Interest Groups Chair**, Asian Social Simulation Association (ASSA). link [https://socialsimulation.net/SIG/youngscientists]
+
+*Peer Review Activities*
+
+Served as a peer reviewer for the following academic journals:
+
+- *Journal of Artificial Societies and Social Simulation (JASSS)*
+- *Rationality and Society*
+- *Journal of Simulation*
+- *Nature Humanities and Social Sciences Communications*
+
+----------
+
 ## EXCHANGE & FIELDWORK
 
 *Peer-reviewed conference presentations*
