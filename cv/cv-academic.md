@@ -71,7 +71,8 @@ title: 'CV'
  <!-- *Papers submitted or in preparation*
 
 - Teng Li, Francesca Giardini, Marieke Haan. ***Vulnerable but compliant: An integrative review of barriers to compliance with health measures in COVID-19***. International Journal of Disaster Risk Reduction
-- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine -->
+- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine 
+-->
 
 ----------
 
