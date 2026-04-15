@@ -28,7 +28,8 @@ title: 'CV'
 - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
 <!--  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)** -->
     - University of Groningen, The Netherlands
-    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS) 
+    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS)
+      
 - **PhD of Management**&emsp;**(Sep 2018&ndash;April 2021)**
     - Huazhong Agricultural University, China
     - College of Economics and Management
