@@ -5,6 +5,8 @@ title: "Publications"
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
 
+Li T. (2025). Consumer heterogeneity and e-market concentration: An agent-based approach. *Journal of Artificial Societies and Social Simulation*, 26(4), 3. [*doi*](https://www.jasss.org/28/4/3.html)
+
 Li, T., Flache, A., & Jager, W. (2025). How culture can affect opinion dynamics: the case of vaccination. *Journal of Computational Social Science*, 8(1), 1-45. [*doi*](https://doi.org/10.1007/s42001-024-00347-7)
 
 Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). Consumer attention and market concentration in e-commerce: an agent-based perspective. *Journal of Economic Interaction and Coordination*, 1-27. [*doi*](https://doi.org/10.1007/s11403-025-00443-5)
@@ -23,7 +25,7 @@ Wang Q., Zhou D., Muhammad Rizwan, Li T. (2018). Exploration of internationalize
 
 Li T., Zhou D. (2017). Investigation and analysis on the development of 'grain bank' - Taking Hubei Sanjie Group as an example. *Grain Science and Technology and Economy*, 42(3), 1-4. (in Chinese) [*doi*](https://link.oversea.cnki.net/doi/10.16465/j.gste.cn431252ts.20170301)
 
-Li T. (2025). Consumer heterogeneity and e-market concentration: An agent-based approach. *Journal of Artificial Societies and Social Simulation*, accepted (2025-10-31).
+Wander Jager, Patrycja Antosz, Loes Bouman, Teng Li, J. Gareth Polhill, Timo Szczepanska and Shaoni Wang. (2025). HUMAT: An Integrated Framework for Modelling Individual Motivations, Social Exchange and Network Dynamics. *Journal of Artificial Societies and Social Simulation*, 28(1), 4. [*doi*](https://www.jasss.org/28/1/4.html)
 
 (*in progress*) Teng Li, Francesca Giardini. Unraveling the role of vulnerability and norm compliance in societal preparedness in health crises.
 
