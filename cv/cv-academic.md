@@ -68,11 +68,10 @@ title: 'CV'
 - Puqing Wang, Saidi Yang, Teng Li. ***Blockchain Technology in Food Safety Governance***. The 2021 12th International Conference on E-business, Management and Economics (ICEME 2021) July 17&ndash;19, 2021, Part1, p90-95(included in EI)
 - Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25
 
- <!-- *Papers submitted or in preparation*
+  <!--    *Papers submitted or in preparation*
 
 - Teng Li, Francesca Giardini, Marieke Haan. ***Vulnerable but compliant: An integrative review of barriers to compliance with health measures in COVID-19***. International Journal of Disaster Risk Reduction
-- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine 
--->
+- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine   -->
 
 ----------
 
@@ -88,12 +87,12 @@ title: 'CV'
 
 ## ACADEMIC SERVICE
 
-*Academic Positions and Roles*
+*Academic positions and roles*
 
-- **Research Group Leader**, Rudolf Agricola School for Sustainable Development. link [https://www.rug.nl/rudolf-agricola-school/research/risk-crises-and-resilience/computational-modelling-for-resilient-socities]  
-- **Special Interest Groups Chair**, Asian Social Simulation Association (ASSA). link [https://socialsimulation.net/SIG/youngscientists]
+- ***Research Group Leader***, Rudolf Agricola School for Sustainable Development. link [https://www.rug.nl/rudolf-agricola-school/research/risk-crises-and-resilience/computational-modelling-for-resilient-socities]  
+- ***Special Interest Groups Chair***, Asian Social Simulation Association (ASSA). link [https://socialsimulation.net/SIG/youngscientists]
 
-*Peer Review Activities*
+*Peer review activities*
 
 Served as a peer reviewer for the following academic journals:
 
