@@ -25,24 +25,29 @@ title: 'CV'
 
 ## EDUCATION
 
-- **Double PhD of Management and Social Simulation**
-  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
-    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands
-  - **PhD of Management**&emsp;**(Sep 2018&ndash;Jan 2025)**
-    - College of Economics and Management, Huazhong Agricultural University, China
-    - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
+- **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
+<!--  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)** -->
+    - University of Groningen, The Netherlands
+    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS) 
+- **PhD of Management**&emsp;**(Sep 2018&ndash;April 2021)**
+    - Huazhong Agricultural University, China
+    - College of Economics and Management
+  <!--  - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization*** -->
 
 - **Visiting Master**&emsp;**(Sep 2017&ndash;Jan 2018)**
-  - Department of International Business Administration, Chinese Culture University, Taiwan, China
+  - Chinese Culture University, Taiwan, China
+  - Department of International Business Administration
   
 - **Master of Management**&emsp;**(Sep 2016&ndash;Jun 2018)**
-  - Department of Business Administration and Management, Huazhong Agricultural University, Wuhan, China
+  - Huazhong Agricultural University, Wuhan, China
+  - Department of Business Administration and Management
 
 - **Bachelor of Management**&emsp;**(Sep 2012&ndash;Jun 2016)**
-  - Department of Business Administration, Nanjing University of Finance and Economics, Nanjing, China
-  - Three times National Encouragement Scholarship
+  - Nanjing University of Finance and Economics, Nanjing, China
+  - Department of Business Administration
+ <!--   - Three times National Encouragement Scholarship
   Outstanding undergraduate award
-  Excellent graduation project award
+  Excellent graduation project award  -->
 
 ----------
 
