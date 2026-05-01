@@ -15,18 +15,18 @@ Huangshan,China,118.3324811,29.7172627
 Xuzhou,China,117.1810431,34.2665258
 Shanghai,China,121.4700152,31.2312707
 Beijing,China,116.3912972,39.9057136
-Chongqing,China,106.5842092,29.5697328
+Chongqing,China,107.8748712,30.05518
 Hangzhou City,China,120.2052342,30.2489634
 Taizhou,China,121.4163876,28.6581723
 Jinhua,China,119.6486487,29.1080344
 Lishui,China,119.9184297,28.4704064
-Xinyang,China,114.0852134,32.1461721
-Wuhan,China,114.2889707,30.5611595
+Xinyang,China,114.853333,32.075
+Wuhan,China,114.2921197,30.578891
 Enshi,China,109.4833079,30.2745483
 Yichang,China,111.2803512,30.6941332
 Guangshui,China,113.8407641,31.6838156
 Xiangyang,China,112.1163785,32.010998
-Shiyan,China,110.792752,32.6314877
+Shiyan,China,110.560812,32.45269
 Zhijiang,China,111.7546868,30.4283835
 Luoyang,China,112.4477046,34.6196539
 Binzhou,China,117.9647262,37.3821206
@@ -36,7 +36,7 @@ Shenzhen,China,114.0545429,22.5445741
 Dongguan,China,113.7452332,23.0183568
 Hong Kong,China,114.1628907,22.2792968
 Qiongzhong,China,109.851111,19.032778
-Lanzhou,China,103.733224,36.474436
+Lanzhou,China,103.632326,36.285862
 Tianshui,China,105.7062921,34.5797531
 Longnan,China,105.3513561,33.5363816
 Ürümqi,China,87.6139038,43.8244074
@@ -49,7 +49,7 @@ Tainan,Taiwan,120.184982,22.9912348
 Kaohsiung,Taiwan,120.3120375,22.6203348
 Chiayi County,Taiwan,120.2930004,23.4591664
 Nantou County,Taiwan,120.6909167,23.90235
-Hsinchu City,Taiwan,121.0406054,24.8061646
+Hsinchu City,Taiwan,120.9933998,24.8429058
 Ulaanbaatar,Mongolia,106.9177016,47.9184676
 Zamiin-Uud,Mongolia,111.8348703,43.8145643
 Islamabad,Pakistan,73.0651511,33.6938118
@@ -58,45 +58,46 @@ Gilgit,Pakistan,74.314044,35.9208102
 Groningen,Netherlands,6.5680077,53.2190652
 Amsterdam,Netherlands,4.8924534,52.3730796
 Friesland,Netherlands,5.777043,53.0923689
-Schiermonnikoog,Netherlands,6.1610076,53.4782844
+Schiermonnikoog,Netherlands,6.2037718,53.4787891
 Zwolle,Netherlands,6.0943765,52.5089759
 Rotterdam,Netherlands,4.47775,51.9244424
 Leiden,Netherlands,4.4908843,52.1594747
-Nijmegen,Netherlands,5.8637771,51.8474946
+Nijmegen,Netherlands,5.8389606,51.8425749
 Utrecht,Netherlands,5.1215634,52.0907006
 Eindhoven,Netherlands,5.478633,51.4392648
-Maastricht,Netherlands,5.6909768,50.8512438
-The Hague,Netherlands,4.3113461,52.0799838
+Maastricht,Netherlands,5.6969882,50.8579855
+The Hague,Netherlands,4.2696802,52.0749456
 Hoorn,Netherlands,5.0735802,52.653272
 Bremen,Germany,8.8071646,53.0758196
 Aachen,Germany,6.083862,50.776351
 Cologne,Germany,6.959974,50.938361
 Ghent,Belgium,3.7250121,51.0538286
 Milan,Italy,9.1896346,45.4641943
-Venice,Italy,12.3345898,45.4371908
+Venice,Italy,12.3105232,45.4046171
 Kristiansand,Norway,7.931858,58.0856276
 Glasgow,United Kingdom,-4.2501687,55.861155
 Brussels,Belgium,4.352493,50.8467372
 City of Edinburgh,United Kingdom,-3.1883749,55.9533456
 Luxembourg,Luxembourg,6.1296751,49.8158683
-Assen,Netherlands,6.5506458,52.997225
-Krakow,Poland,19.9971534,50.0469432
+Assen,Netherlands,6.560498,52.9952273
+Krakow,Poland,19.9368564,50.0619474
 Leeuwarden,Netherlands,5.7918548,53.2005936
 Harlingen,Netherlands,5.4141998,53.1752103
 Eemshaven,Netherlands,6.8465032,53.448402
 Delfzijl,Netherlands,6.9135144,53.3325644
 Nanchang,China,116.0348483,28.6472124
-Jingdezhen,China,117.2735595,29.3582395
-Jiujiang,China,115.9474861,29.6653828
+Jingdezhen,China,117.1727822,29.2712774
+Jiujiang,China,115.3820227,29.388607
 Athens,Greece,23.7348324,37.9755648
 Termoli,Italy,14.9939366,41.9983273
 Rome,Italy,12.4829321,41.8933203
 Leer,Germany,7.4595298,53.2049511
 Berlin,Germany,13.3951309,52.5173885
-Hamburg,Germany,10.000654,53.550341
+Hamburg,Germany,10.0013165,53.5501721
 Hanover,Germany,9.7385532,52.3744779
 Bad Kleinen,Germany,11.4727533,53.7706474
-Changsha,China,112.9708685,28.1987538
+Changsha,China,113.2384362,28.1450774
 Changchun City,China,125.3180998,43.8844201
 Yangzhou City,China,119.4077658,32.3968554
 Novara,Italy,8.545997,45.58425
+Bucharest,Romania,26.102684,44.4361414
