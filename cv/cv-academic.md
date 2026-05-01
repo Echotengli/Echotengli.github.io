@@ -25,24 +25,30 @@ title: 'CV'
 
 ## EDUCATION
 
-- **Double PhD of Management and Social Simulation**
-  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
-    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS), University of Groningen, The Netherlands
-  - **PhD of Management**&emsp;**(Sep 2018&ndash;Jan 2025)**
-    - College of Economics and Management, Huazhong Agricultural University, China
-    - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***
+- **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)**
+<!--  - **PhD of Computational Social Science**&emsp;**(May 2021&ndash;Dec 2024)** -->
+    - University of Groningen, The Netherlands
+    - Faculty of Behavioral and Social Sciences / Interuniversity Center for Social Science Theory and Methodology (ICS)
+      
+- **PhD of Management**&emsp;**(Sep 2018&ndash;April 2021)**
+    - Huazhong Agricultural University, China
+    - College of Economics and Management
+  <!--  - PhD dissertation: ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization*** -->
 
 - **Visiting Master**&emsp;**(Sep 2017&ndash;Jan 2018)**
-  - Department of International Business Administration, Chinese Culture University, Taiwan, China
+  - Chinese Culture University, Taiwan, China
+  - Department of International Business Administration
   
 - **Master of Management**&emsp;**(Sep 2016&ndash;Jun 2018)**
-  - Department of Business Administration and Management, Huazhong Agricultural University, Wuhan, China
+  - Huazhong Agricultural University, Wuhan, China
+  - Department of Business Administration and Management
 
 - **Bachelor of Management**&emsp;**(Sep 2012&ndash;Jun 2016)**
-  - Department of Business Administration, Nanjing University of Finance and Economics, Nanjing, China
-  - Three times National Encouragement Scholarship
+  - Nanjing University of Finance and Economics, Nanjing, China
+  - Department of Business Administration
+ <!--   - Three times National Encouragement Scholarship
   Outstanding undergraduate award
-  Excellent graduation project award
+  Excellent graduation project award  -->
 
 ----------
 
@@ -50,7 +56,7 @@ title: 'CV'
 
 *Peer-reviewed journal articles*
 
-- Li, Teng (2025). ***Consumer Heterogeneity and E-Retailing Market Concentration: An Agent-Based Approach***. Journal of Artificial Societies and Social Simulation. 28 (4) 3. doi: 10.18564/jasss.5699. [http://jasss.soc.surrey.ac.uk/28/4/3.html](http://jasss.soc.surrey.ac.uk/28/4/3.html)
+- Li, Teng (2025). ***Consumer Heterogeneity and E-Retailing Market Concentration: An Agent-Based Approach***. Journal of Artificial Societies and Social Simulation. 28 (4) 3. [http://jasss.soc.surrey.ac.uk/28/4/3.html](http://jasss.soc.surrey.ac.uk/28/4/3.html)
 - Li, T., Flache, A., & Jager, W. (2025). ***How Culture Can Affect Opinion Dynamics: The Case of Vaccination***. Journal of Computational Social Science, 8(1), 1-45. [https://doi.org/10.1007/s42001-024-00347-7](https://doi.org/10.1007/s42001-024-00347-7)
 - Li, T., Wang, S., Zhou, D., & Razzaq, A. (2025). ***Consumer Attention and Market Concentration in E-Commerce: An Agent-Based Perspective***. Journal of Economic Interaction and Coordination, 1-27. [https://doi.org/10.1007/s11403-025-00443-5](https://doi.org/10.1007/s11403-025-00443-5)
 - Li, T. (2024). ***Simulation Models of the Collective Consequences of Bounded Rationality in Opinion Formation in Networks: Cases of Market Concentration and Vaccination Opinion Polarization***. PhD Thesis, University of Groningen. [https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425](https://hdl.handle.net/11370/a80e2530-098c-4543-8b92-1024b9f59425)
@@ -58,13 +64,16 @@ title: 'CV'
 - Li T., Zhou D., Razzaq A., Wang Q (2021). ***Rethinking the Role of Grain Banks in China’s Agriculture***. Agriculture, 11(1):49. [https://doi.org/10.3390/agriculture11010049](https://doi.org/10.3390/agriculture11010049)
 - Li, T., & Zhou, D. (2022). ***An Analysis of Rural Revitalization from the Perspective of Sharing Economy***. Journal of Innovative Agriculture and Social Development, 1(1), 12–22. [https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20](https://www.rdpublishers.com/journals/index.php/jiasd/article/view/20)
 - Li T., Zhou D. (2017). ***Investigation and Analysis on the Development of "Grain Bank"&mdash;Taking Hubei Sanjie Group as an Example***. Grain Science and Technology and Economy, 42(3):1-4. (in Chinese)
+- Wander Jager, Patrycja Antosz, Loes Bouman, Teng Li, J. Gareth Polhill, Timo Szczepanska and Shaoni Wang (2025). ***HUMAT&mdash;An Integrated Framework for Modelling Individual Motivations, Social Exchange and Network Dynamics***. Journal of Artificial Societies and Social Simulation, 28 (1) 4. doi: https://www.jasss.org/28/1/4.html. [https://www.jasss.org/28/1/4.html]
 - Puqing Wang, Saidi Yang, Teng Li. ***Blockchain Technology in Food Safety Governance***. The 2021 12th International Conference on E-business, Management and Economics (ICEME 2021) July 17&ndash;19, 2021, Part1, p90-95(included in EI)
 - Wang Q., Zhou D., Muhammad Rizwan, Li T. ***Exploration of Internationalized Practice Teaching Reform of Innovation and Entrepreneurship in Business Administration&mdash;Constructing "Belt and Road" Cross-border Comprehensive Entrepreneurship Practice Platform***. The First Annual Conference of the National Student Innovation and Entrepreneurship Practice Alliance and the Second Summit Forum on New Technologies for Dual Innovation Practice, 2018.12.25
 
-*Papers submitted or in preparation*
+<!-- 
+  *Papers submitted or in preparation*
 
 - Teng Li, Francesca Giardini, Marieke Haan. ***Vulnerable but compliant: An integrative review of barriers to compliance with health measures in COVID-19***. International Journal of Disaster Risk Reduction
-- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine
+- Teng Li, Francesca Giardini, Marieke Haan. ***What were the barriers to compliance with health recommendations during the COVID-19 pandemic for vulnerable groups in Europe?*** Social Science & Medicine  
+ -->
 
 ----------
 
@@ -75,6 +84,22 @@ title: 'CV'
 - Participated in ***Research on Innovation Product Diffusion Model and Application Based on Micro-Individual Dynamic Decision-Making.*** Humanities and Social Sciences Youth Foundation of Ministry of Education of China, 17YJC630159. July 2017&ndash;Dec 2020, CNY80,000
 - Participated in ***Survey on the Current Situation of Egyptian Agriculture and Analysis of the Potential of China-Egypt Agricultural Cooperation.*** International Science and Technology Cooperation Cultivation Project of Huazhong Agricultural University Autonomous Science and Technology Innovation Fund, 2662017PY071. May 2017&ndash;Dec 2018, CNY100,000
 - Participated in ***State Council's '13th Five-Year Plan' Rural Development and Poverty Alleviation Project in Hubei Province***, Dec 2016
+
+----------
+
+## ACADEMIC SERVICE
+
+*Academic positions and roles*
+
+- ***Research Group Leader - Computational modelling for resilient societies***, Rudolf Agricola School for Sustainable Development. [link](https://www.rug.nl/rudolf-agricola-school/research/risk-crises-and-resilience/computational-modelling-for-resilient-socities)   
+- ***Special Interest Group (SIG) Chair - Young Scientists***, Asian Social Simulation Association (ASSA). [link](https://socialsimulation.net/SIG/youngscientists) 
+
+*Peer reviewer*
+
+- *Journal of Artificial Societies and Social Simulation (JASSS)*
+- *Rationality and Society*
+- *Journal of Simulation*
+- *Nature Humanities and Social Sciences Communications*
 
 ----------
 
